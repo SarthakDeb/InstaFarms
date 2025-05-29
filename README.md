@@ -207,7 +207,7 @@ Before you begin, ensure you have the following installed:
 5.  Visit the **Society page** to view other users and use the follow/unfollow functionality.
 6.  Toggle **Dark/Light mode** using the theme switcher in the navbar.
 
-## (Optional) API Endpoints Overview
+## API Endpoints Overview
 
 A brief overview of the main API endpoints (all prefixed with `/api`):
 
